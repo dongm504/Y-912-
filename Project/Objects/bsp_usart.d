@@ -1,0 +1,10 @@
+.\objects\bsp_usart.o: ..\Basic\usart\bsp_usart.c
+.\objects\bsp_usart.o: ..\Basic\usart\bsp_usart.h
+.\objects\bsp_usart.o: ..\CMSIS\stm32f10x.h
+.\objects\bsp_usart.o: ..\CMSIS\core_cm3.h
+.\objects\bsp_usart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\bsp_usart.o: ..\CMSIS\system_stm32f10x.h
+.\objects\bsp_usart.o: ..\STM32F10x_Libs\inc\stm32f10x_gpio.h
+.\objects\bsp_usart.o: ..\STM32F10x_Libs\inc\stm32f10x_usart.h
+.\objects\bsp_usart.o: ..\STM32F10x_Libs\inc\stm32f10x_rcc.h
+.\objects\bsp_usart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
